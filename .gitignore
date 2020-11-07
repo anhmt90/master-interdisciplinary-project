@@ -1,0 +1,15 @@
+.idea/
+__pycache__/
+bots/
+settings/
+experiment/
+.ipynb_checkpoints/
+
+*.html
+*.err
+*.exe
+*.csv
+*.zip
+*.log
+*.ckp
+*.pkl
